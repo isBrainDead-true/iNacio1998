@@ -2,7 +2,6 @@
 
 - 🔭 Atualmente trabalho como Analista de Suporte Técnico
 - 🌱 Estou cursando o 7ª Semestre em Ciência da Computação. 
-- 👯 Procuro oportunidades de estágio em programação para ingressar na area. 
 
 <div>
   <hr>
@@ -17,7 +16,6 @@
   - [x] Lógica de Programação Essencial
   - [x] Programação Orientada a Objetos
   - [x] Estrutura de dados em Java
-  - [x] Ingles Avançado
 </div>
 
 
